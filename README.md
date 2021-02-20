@@ -7,9 +7,9 @@ in case anyone wants to use it in their own projects. 😁
 
 ## Images
 
-| Image                       | Tags      |
-|:----------------------------|:----------|
-| `uptimeproject/php-laravel` | `7.4-fpm` |
+| Image                       | Tags      | Registry | 
+|:----------------------------|:----------|:---------|
+| `uptimeproject/php-laravel` | `7.4-fpm` | [hub.docker.com](https://hub.docker.com/repository/docker/uptimeproject/php-laravel) |
 
 ## How to contribute
 
