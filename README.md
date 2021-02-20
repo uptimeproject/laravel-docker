@@ -5,6 +5,12 @@
 This repo contains images used to run Laravel on Docker. We use this at UptimeProject.io and decided to OpenSource it
 in case anyone wants to use it in their own projects. 😁 
 
+## Images
+
+| Image                       | Tags      |
+|:----------------------------|:----------|
+| `uptimeproject/php-laravel` | `7.4-fpm` |
+
 ## How to contribute
 
 Feel free to create a PR if you have any ideas for improvements. Or create an issue.
