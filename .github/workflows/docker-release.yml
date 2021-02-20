@@ -9,6 +9,7 @@ on:
 jobs:
   test-builds:
     runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
     steps:
       - uses: actions/checkout@v2
       - name: Build images
@@ -16,6 +17,7 @@ jobs:
 
   deploy-builds:
     runs-on: ubuntu-latest
+    if: github.event_name == 'push'
     steps:
       - uses: actions/checkout@v2
       - name: Log into registry
