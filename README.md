@@ -1,6 +1,8 @@
 <a href="https://uptimeproject.io" target="_blank"><img src="https://uptimeproject.io/img/logo.png" height="50px" /></a>
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/uptimeproject/laravel-docker/CI?style=flat-square)
+![GitHub Workflow Status](https://github.com/uptimeproject/laravel-docker/actions/workflows/deploy-build.yml/badge.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/uptimeproject/php-laravel)
+
 
 This repo contains images used to run Laravel on Docker. We use this at UptimeProject.io and decided to OpenSource it
 in case anyone wants to use it in their own projects. 😁 
