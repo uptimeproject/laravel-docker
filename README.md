@@ -22,6 +22,7 @@ Feel free to create a PR if you have any ideas for improvements. Or create an is
 The directories in the root of the project represent the containers.
 The dockerfiles inside represent variants and will become docker tags. 
 
+
 ### ./build-and-release.sh
 
 This script automatically walks through the directory structure and then builds and pushes the images.
