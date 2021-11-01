@@ -36,3 +36,7 @@ If you want to also release you have to explicitly pass `--release`:
 ```bash
 ./build-and-release.sh --release
 ```
+
+## UptimeProject.io
+
+Check out [uptimeproject.io](https://uptimeproject.io)
