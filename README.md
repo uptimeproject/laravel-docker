@@ -1,4 +1,4 @@
-<a href="https://uptimeproject.io" target="_blank"><img src="https://uptimeproject.io/img/logo.png" height="50px" /></a>
+<a href="https://uptimeproject.io" target="_blank"><h1>UptimeProject.io</h1></a>
 
 ![GitHub Workflow Status](https://github.com/uptimeproject/laravel-docker/actions/workflows/deploy-build.yml/badge.svg)
 ![Docker Pulls](https://img.shields.io/docker/pulls/uptimeproject/php-laravel)
