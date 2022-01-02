@@ -9,9 +9,9 @@ in case anyone wants to use it in their own projects. 😁
 
 ## Images
 
-| Image                       | Tags                                 | Registry | 
-|:----------------------------|:-------------------------------------|:---------|
-| `uptimeproject/php-laravel` | `7.4-fpm` `7.4-fpm-xdebug` `8.0-fpm` | [hub.docker.com](https://hub.docker.com/repository/docker/uptimeproject/php-laravel) |
+| Image                       | Tags                                           | Registry | 
+|:----------------------------|:-----------------------------------------------|:---------|
+| `uptimeproject/php-laravel` | `7.4-fpm` `7.4-fpm-xdebug` `8.0-fpm` `8.1-fpm` | [hub.docker.com](https://hub.docker.com/repository/docker/uptimeproject/php-laravel) |
 
 ## How to contribute
 
